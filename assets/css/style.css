@@ -22,6 +22,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #f93c3c;
+    text-decoration: underline;
 }
 
 h2, h3 {
@@ -132,7 +133,7 @@ main {
 }
 
 #reasons {
-    width: 50%;
+    width: 100%;
     margin: 20px auto;
     
 }
@@ -149,6 +150,7 @@ main {
     margin-bottom: 20px;
 }
 
+
 #benefits p {
     padding: 0 20px;
 }
@@ -158,25 +160,44 @@ main {
     margin: 5px 0;
 }
 
-#headlines {
-    
-}
 /* Meetup Times section */
 #times {
-    background: url('../images/dublin-city.webp') no-repeat center/cover;
+    background: url('../images/london-city.webp') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+#seminar {
+    background: url('../images/seminar.webp') no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
 
 #times div {
     color: #fafafa;
-    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 15px;
     text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
-    flex-basis: 200px;
+    flex-basis: 100px;
+    flex-grow: 1;
+    /* Creates a grid of meetup time dives over the background image */
+    border: 2px solid white;
+    size: 50px;
+}
+
+
+
+#seminar div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 100px;
     flex-grow: 1;
     /* Creates a grid of meetup time dives over the background image */
     border: 2px solid white;
@@ -184,6 +205,10 @@ main {
 
 #times h3 {
     /* Override the heading colour set in general styles */
+    color: #fafafa;
+}
+
+#seminar h3 {
     color: #fafafa;
 }
 
@@ -197,7 +222,7 @@ main {
 }
 
 #social-networks i {
-    font-size: 160%;
+    font-size: 130%;
     padding: 5%;
     color: #000000;
 }
