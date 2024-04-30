@@ -177,7 +177,7 @@ main {
 #times div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, 0.7);
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
@@ -193,7 +193,7 @@ main {
 #seminar div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, 0.7);
-    padding: 15px;
+    padding: 40px;
     text-align: center;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
