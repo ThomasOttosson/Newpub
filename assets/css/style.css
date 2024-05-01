@@ -162,6 +162,25 @@ main {
     margin: 5px 0;
 }
 
+#whiskey-circle-cover-bg {
+    background: url('../images/whiskey-cover-circle-bg.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 25%;
+    max-width: 400px;
+    max-height: 400px;
+    
+}
+
+#benefits-image {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Meetup Times section */
 #times {
     background: url('../images/london-city.webp') no-repeat center/cover;
