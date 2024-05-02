@@ -233,12 +233,8 @@ main {
     color: #000000;
 }
 
-#old-photo-div {
-background: url("");
-}
-
-#old-photo-div2 {
-
+#story {
+text-align: center;
 }
 
 /* Media query: large or landscape phones (576px and up) */
