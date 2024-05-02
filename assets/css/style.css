@@ -237,6 +237,13 @@ main {
 text-align: center;
 }
 
+#anderson {
+height: 600px;
+width: 400px;
+display: block;
+margin: auto;
+}
+
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
