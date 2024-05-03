@@ -235,13 +235,22 @@ main {
 
 #story {
 text-align: center;
+font-size: 300%;
 }
 
 #anderson {
-height: 600px;
-width: 400px;
+height: 500px;
+width: 320px;
 display: block;
 margin: auto;
+}
+
+#about-main {
+margin: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 90%;
 }
 
 /* Media query: large or landscape phones (576px and up) */
