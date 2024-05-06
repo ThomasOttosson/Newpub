@@ -256,8 +256,7 @@ width: 90%;
 
 /* Form */
 #signup {
-    background-image: url("../images/signup-image.webp");
-    background-size: cover;
+   background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
