@@ -214,6 +214,23 @@ main {
     color: #fafafa;
 }
 
+/* Gallery page */
+#photos img {
+   
+    line-height: 1em;
+    width: 50%;
+    height: 50%;
+    display: block;
+  margin: auto;
+
+}
+
+#photos {
+    line-height: 0;
+   
+}
+
+
 #seminar h3 {
     color: #fafafa;
 }
@@ -308,10 +325,7 @@ width: 90%;
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
-    #photos {
-        column-count: 2;
-        column-gap: 0;
-    }
+   
 }
 
 /* Media query: tablets and larger (768px and up) */
