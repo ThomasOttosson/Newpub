@@ -266,13 +266,13 @@ width: 90%;
 
 #signup-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: #000000;
     padding: 30px;
 }
 
 
 #signup-form>h2 {
-    color: #fafafa;
+    color: #f93c3c;
     margin-bottom: 20px;
 }
 
@@ -301,8 +301,9 @@ width: 90%;
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #454b1b;
+    background-color: #f93c3c;
     color: #fafafa;
+    border-radius: 25%;
 }
 
 /* Media query: large or landscape phones (576px and up) */
