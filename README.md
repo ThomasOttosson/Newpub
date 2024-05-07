@@ -15,3 +15,25 @@ The Header
 
 The About Page
 
+* The about page tells a story about an invented fantasy character called Mr Allen Andersson where you can see an image of that fantasy person.
+
+* I have also included a link in the about page to wikipedia.org where i pretended that people can read more about this person in order to show more of my abilities.
+
+Apply Membership Form
+
+* In this form i kept it as simple as posible since i like clean designs. In the form you can find inputs where a user needs to fill in their: First Name, Last Name, Email Adress, Job Title and radio buttons were the user need to choose an option if they want a private parking.
+
+* On the h2 element you can find a font awsome icon which i feel matches the purpose of the form.
+
+* On the bottom of the form you can find a submit button which i gave a border radius property in the css file for the purpose to showcase my abilities a little bit more but i feel that a submit button with sharp edges would probably look better.
+
+Credit
+
+* The majority of the total code was taken from or inspired by the CI Love Running Project. 
+
+Media
+
+* All the images were taken from the website Pexels.
+
+* All the icons used in the code was taken from font awsome.
+
