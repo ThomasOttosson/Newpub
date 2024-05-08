@@ -13,9 +13,20 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * At the top of page in the left corner you can find the club name with a text decoration of underline and in the right corner you will find the navigation links to: Home, About, Pictures and Membership.
 
+* The navigation bar is featured on all 4 pages.
+
 ## The Header
 
 * The colors and font style in the header is inspired by Mafia themes since they were a society back in the days who enjoyed clubs.
+
+![header](./assets/images/header.webp)
+
+## The landing page image
+
+* The landing page includes an image with a white text overlay background with red text included in it to make the website look a bit better and professional.
+
+
+![Webpage](./assets/images/landingpageimage%201.webp)
 
 ## The About Page
 
