@@ -38,7 +38,13 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ## Opening hours and seminar info
 
-* This information tells the user where the club is located, 
+* This information tells the user where the club is located, opening hours and days for the club, restaurant opening hours and days and when the seminar are scheduled.
+
+* The text contains with two h3 elements where each h3 element has it's own font awsome icon.
+
+* The seminar info and opening hours info has two different indivdual background images with some dark opacity added to them.
+
+![Opening_hours_and_seminar_info](./assets/images/openinghours_and_seminar-info.webp)
 
 ## The About Page
 
