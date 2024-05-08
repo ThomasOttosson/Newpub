@@ -28,9 +28,17 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ## Section of benefits
 
-*
+* This section gives any users who considers to become a member some important benefits why The Anderson Club could benefit them.
 
-![Webpage](./assets/images/landingpageimage%201.webp)
+* Each h2 element contains one font awsome icon which matches the text description.
+
+* Each text line also contains a hr element to make the text look more fulfilling and dyslectic friendly.
+
+![benefits](./assets/images/landingpageimage%201.webp)
+
+## Opening hours and seminar info
+
+* This information tells the user where the club is located, 
 
 ## The About Page
 
