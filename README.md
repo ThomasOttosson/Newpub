@@ -3,7 +3,7 @@
 This project is a fantasy based project which provides value as a professional website framework
 for clubs, bars, pubs, organizations etc. The website gives a simple readable & responsive data structure framework that can be adjusted which solves issues amongst the companies in the mentioned industries where i've seen a lack of quality in terms of visual experience and responsiveness.
 
-![Webpage](https://gyazo.com/fc73e5923396e846a1a650d52d7588c4)
+![Webpage](./assets/images/webapage%20screenshot.webp)
 
 ## Features
 
