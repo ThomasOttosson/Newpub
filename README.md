@@ -54,6 +54,10 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ![Footer](./assets/images/footer.webp)
 
+## Pictures
+
+
+
 ## The About Page
 
 * The about page tells a story about an invented fantasy character called Mr Allen Andersson where you can see an image of that fantasy person.

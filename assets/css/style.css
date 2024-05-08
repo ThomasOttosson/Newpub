@@ -358,11 +358,7 @@ width: 90%;
         margin: 0 0.5rem;
     }
 
-/* Main content */
-main {
-    /* Push main content down to accommodate larger header */
-    margin-top: 79px;
-}
+
 
 /* Hero */
 #cover-text {
@@ -387,6 +383,13 @@ main {
     text-align: end;
     align-self: flex-end;
 }
+
+/* Main content */
+main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 87px;
+}
+
 }
 
     /* Large devices (laptops and desktops, 992px and up) */
