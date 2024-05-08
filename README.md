@@ -15,8 +15,6 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * The navigation bar is featured on all 4 pages.
 
-## The Header
-
 * The colors and font style in the header is inspired by Mafia themes since they were a society back in the days who enjoyed clubs.
 
 ![header](./assets/images/header.webp)
@@ -25,6 +23,12 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * The landing page includes an image with a white text overlay background with red text included in it to make the website look a bit better and professional.
 
+
+![landing_page_image](./assets/images/landingpageimage%201.webp)
+
+## Section of benefits
+
+*
 
 ![Webpage](./assets/images/landingpageimage%201.webp)
 
