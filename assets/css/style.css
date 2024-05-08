@@ -58,7 +58,6 @@ header a {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
-    
 }
 
 #menu > li {
@@ -78,7 +77,6 @@ nav {
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
-    
 }
 
 hr {
@@ -114,7 +112,6 @@ main {
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
-    
 }
 
 #cover-text {
@@ -328,6 +325,8 @@ width: 90%;
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
    
+   
+
 }
 
 /* Media query: tablets and larger (768px and up) */
