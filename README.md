@@ -34,7 +34,7 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * Each text line also contains a hr element to make the text look more fulfilling and dyslectic friendly.
 
-![benefits](./assets/images/landingpageimage%201.webp)
+![benefits](./assets/images/maincontent.png)
 
 ## Opening hours and seminar info
 
@@ -45,6 +45,14 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 * The seminar info and opening hours info has two different indivdual background images with some dark opacity added to them.
 
 ![Opening_hours_and_seminar_info](./assets/images/openinghours_and_seminar-info.webp)
+
+## Footer
+
+* The footer tells the user where they can find the social media pages for The Anderson Club and that inlcudes buttons with links to each relevant social media page. 
+
+* The colour for the footer is white on the background and the colour for the social media buttons are black.
+
+![Footer](./assets/images/footer.webp)
 
 ## The About Page
 
