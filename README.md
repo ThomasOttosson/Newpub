@@ -3,13 +3,13 @@
 This project is a fantasy based project which provides value as a professional website framework
 for clubs, bars, pubs, organizations etc. The website gives a simple readable & responsive data structure framework that can be adjusted which solves issues amongst the companies in the mentioned industries where i've seen a lack of quality in terms of visual experience and responsiveness.
 
+The deployed website version can be found on this url adress: https://thomasottosson.github.io/Newpub/index.html
+
 ![Webpage](./assets/images/amiresponsive11.webp)
 
 ## Features
 
-
-
-## Navigation
+Navigation
 
 * At the top of page in the left corner you can find the club name with a text decoration of underline and in the right corner you will find the navigation links to: Home, About, Pictures and Membership.
 
@@ -103,6 +103,8 @@ The HTML and CSS code has been validated through:
 * W3C Validator(HTML): https://validator.w3.org/nu/ 
 
 * Jigsaw Validator(CSS): https://www.w3.org/
+
+* My CSS Results: https://jigsaw.w3.org/css-validator/validator
 
 ### Overall tests
 
