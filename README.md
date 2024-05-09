@@ -116,9 +116,17 @@ Here is a link to the results: https://ui.dev/amiresponsive?url=https://thomasot
 
 ![Amiresponsive](./assets/images/amiresponsive11.webp)
 
+## Unfixed bugs
+
+* The perfomance in lighthouse needs to be a little bit improved with for example adjusting the size of the images and making their file size smaller so the website becomes faster to load.
+
 ## Deployment
 
-The depl
+* The deployment was made through github. The step by step process where the following: Settings --> Pages --> Source --> Deploy from a branch --> Main --> /(root) --> Save.
+
+
+![Deployment](./assets/images/deployment.webp)
+
 
 ## Credit
 
