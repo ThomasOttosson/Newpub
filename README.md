@@ -3,7 +3,7 @@
 This project is a fantasy based project which provides value as a professional website framework
 for clubs, bars, pubs, organizations etc. The website gives a simple readable & responsive data structure framework that can be adjusted which solves issues amongst the companies in the mentioned industries where i've seen a lack of quality in terms of visual experience and responsiveness.
 
-![Webpage](./assets/images/webapage%20screenshot.webp)
+![Webpage](./assets/images/amiresponsive11.webp)
 
 ## Features
 
@@ -108,14 +108,17 @@ The HTML and CSS code has been validated through:
 
 * Lighthouse results: 
 
-![Lighthouse]()
+![Lighthouse](./assets/images/lighthouse.webp)
 
 * Amiresponsive results: 
 
-Here is a link to the results: 
+Here is a link to the results: https://ui.dev/amiresponsive?url=https://thomasottosson.github.io/Newpub/index.html
 
-![Amiresponsive]()
+![Amiresponsive](./assets/images/amiresponsive11.webp)
 
+## Deployment
+
+The depl
 
 ## Credit
 
