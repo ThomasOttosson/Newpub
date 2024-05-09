@@ -52,6 +52,8 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * The colour for the footer is white on the background and the colour for the social media buttons are black.
 
+* This footer is included in all four pages.
+
 ![Footer](./assets/images/footer.webp)
 
 ## The About Page
@@ -66,7 +68,7 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ## Pictures
 
-* The pictures page will provide the user a good understanding how the club looks and what avaible in terms of quality.
+* The pictures page will provide the user a good understanding how the club looks and what's available in terms of quality.
 
 * Since membership for this club is expensive, it's very value for the user to see online what their money would go towards.
 
@@ -80,13 +82,19 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 * On the bottom of the form you can find a submit button which i gave a border radius property in the css file for the purpose to showcase my abilities a little bit more but i feel that a submit button with sharp edges would probably look better.
 
+![Membership_form](./assets/images/membership%20form.webp)
+
 ## Credit
 
-* The majority of the total code was taken from or inspired by the CI Love Running Project. 
+* The majority of the total code was taken from or inspired by the CI Love Running Project created by Code Institute. 
+
+* Here is a url adress to check out their homepage: https://codeinstitute.net/
+
+* Here is a url adress to check out the codes i used from github: https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation
 
 ## Media
 
-* All the images were taken from the website Pexels.
+* All the images were taken from the website Pexels. Here is a url adress to
 
 * All the icons used in the code was taken from font awsome.
 
