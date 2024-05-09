@@ -106,6 +106,15 @@ The HTML and CSS code has been validated through:
 
 ### Overall tests
 
+* Lighthouse results: 
+
+![Lighthouse]()
+
+* Amiresponsive results: 
+
+Here is a link to the results: 
+
+![Amiresponsive]()
 
 
 ## Credit
