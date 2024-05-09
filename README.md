@@ -54,15 +54,23 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ![Footer](./assets/images/footer.webp)
 
-## Pictures
-
-
-
 ## The About Page
 
 * The about page tells a story about an invented fantasy character called Mr Allen Andersson where you can see an image of that fantasy person.
 
 * I have also included a link in the about page to wikipedia.org where i pretended that people can read more about this person in order to show more of my abilities.
+
+![About](./assets/images/aboutpage.webp)
+
+![About](./assets/images/about2page.webp)
+
+## Pictures
+
+* The pictures page will provide the user a good understanding how the club looks and what avaible in terms of quality.
+
+* Since membership for this club is expensive, it's very value for the user to see online what their money would go towards.
+
+![Pictures](./assets/images/pictures.webp)
 
 ## Apply Membership Form
 
