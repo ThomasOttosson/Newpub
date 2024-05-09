@@ -94,8 +94,8 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ## Media
 
-* All the images were taken from the website Pexels. Here is a url adress to
+* All the images were taken from the website Pexels. Here is a url adress to their homepage: https://www.pexels.com/
 
-* All the icons used in the code was taken from font awsome.
+* All the icons used in the code was taken from font awsome. Here is a url adress to their homepage: https://fontawesome.com/ 
 
 
