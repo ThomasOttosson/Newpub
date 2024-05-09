@@ -84,6 +84,30 @@ for clubs, bars, pubs, organizations etc. The website gives a simple readable & 
 
 ![Membership_form](./assets/images/membership%20form.webp)
 
+## Features left to improve the website
+
+* Add a description to each image on the pictures page.
+
+* Add a background image to membership page.
+
+* Add a hover function to the social media buttons.
+
+* Adjust the logo and navigation so the logo becomes a little larger.
+
+* Add a shop to the club so any users can buy merch or tickets for the seminar.
+
+## Validator Testing 
+
+The HTML and CSS code has been validated through:
+
+* W3C Validator(HTML): https://validator.w3.org/nu/ 
+
+* Jigsaw Validator(CSS): https://www.w3.org/
+
+### Overall tests
+
+
+
 ## Credit
 
 * The majority of the total code was taken from or inspired by the CI Love Running Project created by Code Institute. 
